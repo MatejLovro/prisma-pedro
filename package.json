@@ -9,12 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@auth/prisma-adapter": "^2.11.1",
     "@prisma/client": "^6.18.0",
     "@prisma/extension-accelerate": "^2.0.2",
     "dotenv": "^17.2.3",
-    "next": "16.0.0",
-    "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "next": "15.5.2",
+    "react": "^19.0.0-rc",
+    "react-dom": "^19.0.0-rc"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
